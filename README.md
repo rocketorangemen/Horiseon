@@ -1,2 +1,0 @@
-# Horiseon website
-Refactored
